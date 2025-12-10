@@ -36,7 +36,7 @@ Focused on thorough data exploration and deriving insights to inform the next st
 ### **Phase Two: Hypothesis Testing and Decision-making**  
 Utilized hypothesis testing to validate assumptions and plan the marketing campaign.
 
-![Phase 1 Completion](Phase_B/Screenshot)
+![Phase 1 Completion](Phase_B/Screenshot.png)
 
 1. **Campaign Planning**  
    - Strategized promotional activities tailored to the target demographic.  
